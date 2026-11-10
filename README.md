@@ -44,9 +44,10 @@ Design Process
 5. Interactive Prototyping
 6. Design Refinement
 
-Project Type
+Project
+[🔗 View Vx-1](https://www.figma.com/proto/DIgoJ0Qa1aldDbdEHfFedv/VOLANZA?page-id=0%3A1&node-id=261-48&p=f&viewport=783%2C425%2C0.07&t=MVm69jcwz2nE9SUh-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=261%3A21)
 
-UI/UX Design | Figma | Interactive Prototyping
+
 
 Project Vision
 
